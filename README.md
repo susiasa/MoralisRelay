@@ -1,4 +1,3 @@
-<!-- fallback_MoralisRelay_20260203000131_82109 -->
 
 # MoralisRelay: High-velocity cloud fabricator for real-time data processing and auto-scaling, delivering scalable, reliable, and highly available enterprise services Implementation
 > Advanced python solution leveraging modern architecture patterns and cutting-edge technology.
